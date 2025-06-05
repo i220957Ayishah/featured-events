@@ -18,7 +18,6 @@ const FeaturedEvents = () => {
 
     const searchedEvents = events.filter(event =>
         event.name.toLowerCase().includes(searchWord.toLowerCase()) ||
-        event.description.toLowerCase().includes(searchWord.toLowerCase()) ||
         event.location.toLowerCase().includes(searchWord.toLowerCase())
     );
 
