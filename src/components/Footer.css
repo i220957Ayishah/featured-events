@@ -18,3 +18,9 @@
     margin: 10px;
     color: #f4f4f4;
 }
+
+@media (max-width: 576px) {
+    .footer {
+        padding-bottom: 6px;
+    }
+}
