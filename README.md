@@ -1,3 +1,27 @@
+# Description:
+
+## Tools and Tech used:
+- **React.js** – JavaScript library for building user interfaces  
+- **JavaScript** – Core programming language used  
+- **HTML5 & CSS3** – Structure and styling  
+- **React Hooks** – State management (`useState`, `useEffect`)  
+- **Flexbox & Grid** – For layout and responsiveness  
+- **Public Folder Assets** – For images like logos and background assets
+- **Vercel** – Deployment and hosting platform  
+
+         https://featured-events-seven.vercel.app/
+    
+- **Git & GitHub** – Version control and collaboration
+
+## Extra features:
+
+- Toggle menu button on mobiles or very small screens
+- Mentioned bonus feature: Search events by name
+- Transitions on event cards hover
+- Image slider in the hero section
+
+  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
